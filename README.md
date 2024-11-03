@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms
 
 # Current Folder Structure #
-    ```init
+    ```bash
         Data-Structures-and-Algorithms/
         ├── src/
         ├── utils/
