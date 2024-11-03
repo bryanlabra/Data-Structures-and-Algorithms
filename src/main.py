@@ -1,5 +1,15 @@
-from utils import arr, binary_search
+# src/main.py
+
+import sys
+import os
+
+# Add the project root to sys.path
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '../'))
+sys.path.append(project_root)
+
 import random as rand
+from DataStructuresAndAlgorithms.utils import arr  # Import arr from utils
+from DataStructuresAndAlgorithms.utils.algos import binary_search  # Import binary_search from algos
 
 def main():
     # Generate a random array
@@ -23,6 +33,5 @@ def main():
     else:
         print(f"Target {target} not found in the array.")
 
-# Run main() only if this script is executed directly
 if __name__ == "__main__":
     main()

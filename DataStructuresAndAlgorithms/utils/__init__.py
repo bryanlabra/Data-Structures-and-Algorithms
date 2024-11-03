@@ -1,6 +1,6 @@
 # utils/__init__.py
 from .list_utils import arr            # Import arr from list_utils
-from .algos import *
+from .algos import binary_search
 
 __all__ = [
     "arr",           # Expose arr function
