@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 
-# Current Folder Structure #
+## Current Folder Structure ##
 ```bash
 Data-Structures-and-Algorithms/
 ├── src/
