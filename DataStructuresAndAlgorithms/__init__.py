@@ -1,6 +1,2 @@
 # DataStructuresAndAlgorithms/__init__.py
-
-from .utils.list_utils import arr
-from .utils.algos import binary_search
-
-__all__ = ["arr", "binary_search"]
+# Optionally, use __all__ if needed to control accessible package exports

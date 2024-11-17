@@ -12,7 +12,7 @@ Data-Structures-and-Algorithms/
 │   │   ├── list_utils.py                # Module with list utilities
 │   │   └── algos/                       # Subpackage for algorithms
 │   │       ├── __init__.py              # Init for algos package
-│   │       ├── search.py                # Contains binary_search function
+│   │       ├── binarysearch.py          # Contains binary_search function
 │   │       └── mergesort.py             # Contains mergesort function
 ├── .gitignore 
 ├── setup.py                             # Setup script for package installation
